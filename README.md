@@ -26,12 +26,12 @@ This is a simple Python implementation of the classic game **Rock, Paper, Scisso
 ### Running the Game
 1. Clone this repository.
    ```bash
-   https://github.com/DvirUliel/Python-Rock-Paper-Scissors-Game.git
+   git clone https://github.com/DvirUliel/Python-Rock-Paper-Scissors-Game.git
 
 2. Navigate to the project directory.
    ```bash
-   cd rock-paper-scissors-game
+   cd Python-Rock-Paper-Scissors-Game
 
 3. Run the game.
    ```bash
-   python rock_paper_scissors.py
+   python RockPaperScissors.py
